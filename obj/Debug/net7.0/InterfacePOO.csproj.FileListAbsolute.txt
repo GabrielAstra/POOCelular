@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/InterfacePOO/bin/Debug/net7.0/InterfacePOO
+/home/gabriel/Desktop/InterfacePOO/bin/Debug/net7.0/InterfacePOO.deps.json
+/home/gabriel/Desktop/InterfacePOO/bin/Debug/net7.0/InterfacePOO.runtimeconfig.json
+/home/gabriel/Desktop/InterfacePOO/bin/Debug/net7.0/InterfacePOO.dll
+/home/gabriel/Desktop/InterfacePOO/bin/Debug/net7.0/InterfacePOO.pdb
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.AssemblyInfo.cs
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.dll
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/refint/InterfacePOO.dll
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.pdb
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/InterfacePOO.genruntimeconfig.cache
+/home/gabriel/Desktop/InterfacePOO/obj/Debug/net7.0/ref/InterfacePOO.dll
